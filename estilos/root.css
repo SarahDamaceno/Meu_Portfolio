@@ -1,6 +1,19 @@
-
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    border: none;
+    outline: none;
+    scroll-behavior: smooth;
+    
+}
 :root{
     /*Colors*/
-   
+   --text-color: #fff;
+   --bg-color:#2b2727;
+   --second-color:rgb(189, 174, 190);
+   --main-color: rgb(183, 110, 159);
+
     /*font*/
 }
