@@ -189,7 +189,7 @@ span{
   }
   
 
-/*Portfólio*/
+/*Estilizando section Portfólio*/
 
 .portfólio{
     background: var(--second-bg-color);
@@ -269,6 +269,8 @@ span{
     color: var(--second-bg-color);
 }
 
+/*Estilizando a section contato*/
+
 .contact h2{
     margin-bottom: 3rem;
 }
@@ -288,10 +290,10 @@ span{
 .contact form .input-box input,
 .contact form textarea{
     width: 100%;
+    background-color: var(--color-contact);
     padding: 1.5rem;
     font-size: 1.6rem;
     color: var(--text-color);
-    background: var(--second-bg-color);
     border-radius: .8rem;
     margin: .7rem 0;
 }
@@ -308,6 +310,7 @@ span{
 .contact form .btn{
     margin-top: 2rem;
     cursor: pointer;
+
 }
 
 
